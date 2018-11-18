@@ -19,6 +19,21 @@ header .btn-outline-secondary {
     border-color: #BCD7F7;
 }
 
+.bg-w-rnd {
+    background-color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.mt-75 {
+    margin-top: 75px;
+}
+
+.pb-75 {
+    padding-bottom: 150px;
+}
+
 /* LEAD */
 
 #lead {
@@ -27,12 +42,6 @@ header .btn-outline-secondary {
     height: 855px;
 }
 
-#lead .bg-w-rnd {
-    background-color: white;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-}
 
 #lead .social-icons {
     width: 69px;
@@ -54,7 +63,62 @@ header .btn-outline-secondary {
 /* WHY */
 
 #why {
-    padding-top: 50px;
+    padding-top: 450px;
     background-color: #071F58;
     color: white;
+}
+
+#why .card {
+    border: none;
+}
+
+#why .card-text {
+    color: #071F58;
+}
+
+#why .pulled-back {
+    margin-top: -200px;
+}
+
+#why .description {
+
+}
+
+/* GRISI */
+#grisi {
+    background-image: url(../assets/office.jpg);
+    background-size: cover;
+    height: 855px;
+    padding-top: 350px;
+}
+
+#grisi .slider-right {
+    background-color: #458DE8;
+    margin-left: -55px;
+    z-index: 10;
+    border-radius: 15px;
+    padding-left: 155px;
+    padding-top: 80px;
+    color: white;
+}
+
+#grisi .slider-left .img-grisi {
+    height: 440px;
+    margin-top: -45px;
+    margin-left: -45px;
+}
+
+#grisi .slider-left .img-podpisy {
+    margin-top: -250px;
+    margin-left: 260px;
+}
+
+#grisi .slider-left {
+    min-width: 530px;
+    background-color: white;
+    border-radius: 15px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 50px;
+    height: 394px;
+    z-index: 20;
 }
