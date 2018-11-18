@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>01_icon@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navrh" transform="translate(-541.000000, -3747.000000)">
+            <g id="01_icon" transform="translate(541.000000, 3747.000000)">
+                <g id="Group-14" fill="#D0FFDA">
+                    <ellipse id="Oval-3" cx="34.6172037" cy="34.5480631" rx="34.6172037" ry="34.5480631"></ellipse>
+                </g>
+                <g id="Calendar" transform="translate(19.000000, 17.000000)">
+                    <path d="M0,5.99653482 C0,5.44616384 0.438225746,5 0.996315107,5 L30.0036849,5 C30.5539345,5 31,5.43981314 31,5.99653482 L31,32.0034652 C31,32.5538362 30.5617743,33 30.0036849,33 L0.996315107,33 C0.446065467,33 0,32.5601869 0,32.0034652 L0,5.99653482 Z" id="Rectangle-159" stroke="#62B875" stroke-width="2.6" fill="#FFFFFF"></path>
+                    <path d="M0,5.99754465 C0,5.44661595 0.438225746,5 0.996315107,5 L30.0036849,5 C30.5539345,5 31,5.4463114 31,5.99754465 L31,13.0024554 C31,13.553384 30.5617743,14 30.0036849,14 L0.996315107,14 C0.446065467,14 0,13.5536886 0,13.0024554 L0,5.99754465 Z" id="Rectangle-159" stroke="#62B875" stroke-width="2" fill="#D0FFDA"></path>
+                    <rect id="Rectangle-160" fill="#62B875" x="5" y="0" width="3" height="9" rx="1"></rect>
+                    <path d="M23,0.997544646 C23,0.446615951 23.4426603,0 23.9989566,0 L25.0010434,0 C25.5527519,0 26,0.446311399 26,0.997544646 L26,8.00245535 C26,8.55338405 25.5573397,9 25.0010434,9 L23.9989566,9 C23.4472481,9 23,8.5536886 23,8.00245535 L23,0.997544646 Z" id="Rectangle-160-Copy" fill="#62B875"></path>
+                    <path d="M17,0.997544646 C17,0.446615951 17.4426603,0 17.9989566,0 L19.0010434,0 C19.5527519,0 20,0.446311399 20,0.997544646 L20,8.00245535 C20,8.55338405 19.5573397,9 19.0010434,9 L17.9989566,9 C17.4472481,9 17,8.5536886 17,8.00245535 L17,0.997544646 Z" id="Rectangle-160-Copy-2" fill="#62B875"></path>
+                    <rect id="Rectangle-160-Copy-3" fill="#62B875" x="11" y="0" width="3" height="9" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

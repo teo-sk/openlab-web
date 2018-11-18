@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>04_icon@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navrh" transform="translate(-541.000000, -4056.000000)">
+            <g id="04_icon" transform="translate(541.000000, 4056.000000)">
+                <g id="Group-14-Copy-5" transform="translate(35.000000, 35.000000) scale(-1, 1) translate(-35.000000, -35.000000) " fill="#F3DDDE">
+                    <ellipse id="Oval-3" cx="34.6172037" cy="34.5480631" rx="34.6172037" ry="34.5480631"></ellipse>
+                </g>
+                <g id="Emoticon-A" transform="translate(35.000000, 35.000000) scale(-1, 1) translate(-35.000000, -35.000000) translate(17.000000, 17.000000)">
+                    <circle id="Oval-42" stroke="#C39698" stroke-width="2.6" fill="#FFFFFF" cx="18" cy="18" r="18"></circle>
+                    <path d="M11.015941,21 L13.1801925,21 C13.1666438,21.1778326 13.1597222,21.3579255 13.1597222,21.5399306 C13.1597222,24.8200801 15.4078591,27.4791667 18.1810764,27.4791667 C20.9542937,27.4791667 23.2024306,24.8200801 23.2024306,21.5399306 C23.2024306,21.3579255 23.195509,21.1778326 23.1819603,21 L25.562184,21 C25.5727557,21.1784598 25.578125,21.3584985 25.578125,21.5399306 C25.578125,26.0128617 22.3147006,29.6388889 18.2890625,29.6388889 C14.2634244,29.6388889 11,26.0128617 11,21.5399306 C11,21.3584985 11.0053693,21.1784598 11.015941,21 Z" id="Combined-Shape" fill="#C39698"></path>
+                    <circle id="Oval-43" fill="#C39698" cx="13" cy="13" r="2"></circle>
+                    <circle id="Oval-43-Copy" fill="#C39698" cx="24" cy="13" r="2"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

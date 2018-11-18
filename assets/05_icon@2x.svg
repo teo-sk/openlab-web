@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>05_icon@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navrh" transform="translate(-924.000000, -4056.000000)">
+            <g id="05_icon" transform="translate(924.000000, 4056.000000)">
+                <g transform="translate(35.000000, 35.000000) scale(-1, 1) translate(-35.000000, -35.000000) " fill="#C1D2E4" id="Oval-3">
+                    <ellipse cx="34.6172037" cy="34.5480631" rx="34.6172037" ry="34.5480631"></ellipse>
+                </g>
+                <g id="Switch" transform="translate(34.000000, 36.000000) scale(-1, 1) rotate(-90.000000) translate(-34.000000, -36.000000) translate(17.000000, 19.000000)" stroke="#6E8AA7" stroke-width="2.6">
+                    <path d="M14,14.9918031 C14,14.4440454 14.4553056,14 14.9918031,14 L33.0081969,14 C33.5559546,14 34,14.4553056 34,14.9918031 L34,33.0081969 C34,33.5559546 33.5446944,34 33.0081969,34 L14.9918031,34 C14.4440454,34 14,33.5446944 14,33.0081969 L14,14.9918031 Z" id="Rectangle-201" fill="#FFFFFF"></path>
+                    <rect id="Rectangle-201" fill="#C1D2E4" x="0" y="0" width="20" height="20" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

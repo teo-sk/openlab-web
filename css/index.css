@@ -1,0 +1,60 @@
+/* HEADER */
+
+header {
+    line-height: 76px;
+}
+
+nav a {
+    color: black;
+    font-size: 11pt;
+}
+
+nav a.active {
+    font-weight: bold;
+}
+
+header .btn-outline-secondary {
+    width: 150px;
+    color: #458DE8;
+    border-color: #BCD7F7;
+}
+
+/* LEAD */
+
+#lead {
+    background-image: url(../assets/header.jpg);
+    background-size: cover;
+    height: 855px;
+}
+
+#lead .bg-w-rnd {
+    background-color: white;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#lead .social-icons {
+    width: 69px;
+    margin: 690px auto 0;
+}
+
+#lead .social-icons img {
+    width: 75%;
+    margin: 0 auto;
+    display: block;
+}
+
+#lead .slider {
+    max-width: 500px;
+    height: 416px;
+    margin-top: 470px;
+}
+
+/* WHY */
+
+#why {
+    padding-top: 50px;
+    background-color: #071F58;
+    color: white;
+}

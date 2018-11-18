@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>03_icon@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navrh" transform="translate(-1306.000000, -3747.000000)">
+            <g id="03_icon" transform="translate(1306.000000, 3747.000000)">
+                <g fill="#FBEEBC" id="Oval-3">
+                    <ellipse cx="34.6172037" cy="34.5480631" rx="34.6172037" ry="34.5480631"></ellipse>
+                </g>
+                <g id="Visa-Card" transform="translate(19.000000, 24.000000)">
+                    <rect id="Rectangle-172" stroke="#FAC832" stroke-width="2.6" fill="#FFFFFF" x="0" y="0" width="29" height="21" rx="1.3"></rect>
+                    <rect id="Rectangle-173" fill="#FBEEBC" x="1.31818182" y="5.25" width="26.3636364" height="3.9375"></rect>
+                    <path d="M17.1363636,14.4251972 C17.1363636,13.7071181 17.717938,13.125 18.4423891,13.125 L23.739429,13.125 C24.460727,13.125 25.0454545,13.7059917 25.0454545,14.4251972 L25.0454545,15.7623028 C25.0454545,16.4803819 24.4638802,17.0625 23.739429,17.0625 L18.4423891,17.0625 C17.7210912,17.0625 17.1363636,16.4815083 17.1363636,15.7623028 L17.1363636,14.4251972 Z" id="Rectangle-174" fill="#FAC832"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
