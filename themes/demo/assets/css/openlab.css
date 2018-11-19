@@ -122,3 +122,11 @@ header .btn-outline-secondary {
     height: 394px;
     z-index: 20;
 }
+
+/* NEWSLETTER */
+
+#newsletter {
+    padding-top: 150px;
+    background-color: #071F58;
+    color: white;
+}
