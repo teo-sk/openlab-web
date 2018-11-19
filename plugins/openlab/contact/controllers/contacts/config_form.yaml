@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Contact
+
+# Model Form Field configuration
+form: $/openlab/contact/models/contact/fields.yaml
+
+# Model Class name
+modelClass: Openlab\Contact\Models\Contact
+
+# Default redirect location
+defaultRedirect: openlab/contact/contacts
+
+# Create page
+create:
+    title: Create Contact
+    redirect: openlab/contact/contacts/update/:id
+    redirectClose: openlab/contact/contacts
+
+# Update page
+update:
+    title: Edit Contact
+    redirect: openlab/contact/contacts
+    redirectClose: openlab/contact/contacts
+
+# Preview page
+preview:
+    title: Preview Contact
