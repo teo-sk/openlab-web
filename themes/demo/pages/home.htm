@@ -79,7 +79,10 @@ is_hidden = 0
             <div class="col-6 text-center">
                 <h6 class="mb-3">NEWSLETTER</h6>
                 <h2 class="mb-5 display-4">Dostavajte vzdy cerstve informacie</h2>
-                <p>todo formicka october</p>
+                <form action="api/contact" method="post">
+                    <input type="text" name="email" placeholder="Vas email" class="input-lg">
+                    <button type="submit" class="btn btn-success">Odoslat</button>
+                </form>
             </div>
     </div>
 </div>
